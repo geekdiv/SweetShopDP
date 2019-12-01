@@ -1,0 +1,919 @@
+[
+	{
+		"id": "1",
+		"category": "Sweets ",
+		"subcategory": "Bengali Sweets ",
+		"sweet_name": "Malai Sandwich",
+		"image": "Malai-Sandwich.jpg"
+	},
+	{
+		"id": "2",
+		"category": "Sweets ",
+		"subcategory": "Bengali Sweets ",
+		"sweet_name": "White Rasgulla",
+		"image": "White-Rasgulla.jpg"
+	},
+	{
+		"id": "3",
+		"category": "Sweets ",
+		"subcategory": "Bengali Sweets ",
+		"sweet_name": "Gulab Jamun",
+		"image": "Gulab-Jamun.jpg"
+	},
+	{
+		"id": "4",
+		"category": "Sweets ",
+		"subcategory": "Bengali Sweets ",
+		"sweet_name": "Kala Jamun",
+		"image": "Kala-Jamun.jpg"
+	},
+	{
+		"id": "5",
+		"category": "Sweets ",
+		"subcategory": "Bengali Sweets ",
+		"sweet_name": "Kesar Rabdi",
+		"image": "Kesar-Rabdi.jpg"
+	},
+	{
+		"id": "6",
+		"category": "Sweets ",
+		"subcategory": "Shrikhand",
+		"sweet_name": "Kesar Shrikhand",
+		"image": "Kesar-Shrikhand.jpg"
+	},
+	{
+		"id": "7",
+		"category": "Sweets ",
+		"subcategory": "Shrikhand",
+		"sweet_name": "Mango Shrikhand",
+		"image": "Mango-Shrikhand.jpg"
+	},
+	{
+		"id": "8",
+		"category": "Sweets ",
+		"subcategory": "Shrikhand",
+		"sweet_name": "Elaichi Shrikhand",
+		"image": "Elaichi-Shrikhand.jpg"
+	},
+	{
+		"id": "9",
+		"category": "Sweets ",
+		"subcategory": "Shrikhand",
+		"sweet_name": "Rajbhog Shrikhand",
+		"image": "Rajbhog-Shrikhand.jpg"
+	},
+	{
+		"id": "10",
+		"category": "Sweets ",
+		"subcategory": "Shrikhand",
+		"sweet_name": "Panchratna Shrikhand",
+		"image": "Panchratna-Shrikhand.jpg"
+	},
+	{
+		"id": "11",
+		"category": "Sweets ",
+		"subcategory": "Milk Sweets",
+		"sweet_name": "Mango Barfi",
+		"image": "Mango-Barfi.jpg"
+	},
+	{
+		"id": "12",
+		"category": "Sweets ",
+		"subcategory": "Milk Sweets",
+		"sweet_name": "Malai Barfi",
+		"image": "Malai-Barfi.jpg"
+	},
+	{
+		"id": "13",
+		"category": "Sweets ",
+		"subcategory": "Milk Sweets",
+		"sweet_name": "Rose Barfi",
+		"image": "Rose-Barfi.jpg"
+	},
+	{
+		"id": "14",
+		"category": "Sweets ",
+		"subcategory": "Milk Sweets",
+		"sweet_name": "Milk Cake",
+		"image": "Milk-Cake.jpg"
+	},
+	{
+		"id": "15",
+		"category": "Sweets ",
+		"subcategory": "Milk Sweets",
+		"sweet_name": "Kesar Malai Peda",
+		"image": "Kesar-Malai-Peda.jpg"
+	},
+	{
+		"id": "16",
+		"category": "Sweets ",
+		"subcategory": "Milk Sweets",
+		"sweet_name": "Thabdi Peda",
+		"image": "Thabdi-Peda.jpg"
+	},
+	{
+		"id": "17",
+		"category": "Sweets ",
+		"subcategory": "Milk Sweets",
+		"sweet_name": "White Rajkot Peda",
+		"image": "White-Rajkot-Peda.jpg"
+	},
+	{
+		"id": "18",
+		"category": "Sweets ",
+		"subcategory": "Ladoo",
+		"sweet_name": "Ghee Motichoor Ladoo",
+		"image": "Ghee-Motichoor-Ladoo.jpg"
+	},
+	{
+		"id": "19",
+		"category": "Sweets ",
+		"subcategory": "Ladoo",
+		"sweet_name": "Ghee Besan Ladoo",
+		"image": "Ghee-Besan-Ladoo.jpg"
+	},
+	{
+		"id": "20",
+		"category": "Sweets ",
+		"subcategory": "Ladoo",
+		"sweet_name": "Ghee Churma Ladoo",
+		"image": "Ghee-Churma-Ladoo.jpg"
+	},
+	{
+		"id": "21",
+		"category": "Sweets ",
+		"subcategory": "Ladoo",
+		"sweet_name": "Nachni Ladoo",
+		"image": "Nachni-Ladoo.jpg"
+	},
+	{
+		"id": "22",
+		"category": "Sweets ",
+		"subcategory": "Ladoo",
+		"sweet_name": "Makhana Oats Ladoo",
+		"image": "Makhana-Oats-Ladoo.jpg"
+	},
+	{
+		"id": "23",
+		"category": "Sweets ",
+		"subcategory": "Dry Fruit Sweets",
+		"sweet_name": "White Kaju Katli",
+		"image": "White-Kaju-Katli.jpg"
+	},
+	{
+		"id": "24",
+		"category": "Sweets ",
+		"subcategory": "Dry Fruit Sweets",
+		"sweet_name": "Kesar Kaju Katli",
+		"image": "Kesar-Kaju-Katli.jpg"
+	},
+	{
+		"id": "25",
+		"category": "Sweets ",
+		"subcategory": "Dry Fruit Sweets",
+		"sweet_name": "Kaju Pista Roll",
+		"image": "Kaju-Pista-Roll.jpg"
+	},
+	{
+		"id": "26",
+		"category": "Sweets ",
+		"subcategory": "Sugar Free Sweets",
+		"sweet_name": "Roasted Anjeer",
+		"image": "Roasted-Anjeer.jpg"
+	},
+	{
+		"id": "27",
+		"category": "Sweets ",
+		"subcategory": "Sugar Free Sweets",
+		"sweet_name": "Roasted Khajur",
+		"image": "Roasted-Khajur.jpg"
+	},
+	{
+		"id": "28",
+		"category": "Sweets ",
+		"subcategory": "Sugar Free Sweets",
+		"sweet_name": "Roasted Cranberry",
+		"image": "Roasted-Cranberry.jpg"
+	},
+	{
+		"id": "29",
+		"category": "Namkeen",
+		"subcategory": "Diet Namkeen",
+		"sweet_name": "Multigrain Mix",
+		"image": "Multigrain-Mix.jpg"
+	},
+	{
+		"id": "30",
+		"category": "Namkeen",
+		"subcategory": "Diet Namkeen",
+		"sweet_name": "Navratan Mix",
+		"image": "Navratan-Mix.jpg"
+	},
+	{
+		"id": "31",
+		"category": "Namkeen",
+		"subcategory": "Diet Namkeen",
+		"sweet_name": "Corn Chivda",
+		"image": "Corn-Chivda.jpg"
+	},
+	{
+		"id": "32",
+		"category": "Namkeen",
+		"subcategory": "Diet Namkeen",
+		"sweet_name": "Roasted Corn Chips",
+		"image": "Roasted-Corn-Chips.jpg"
+	},
+	{
+		"id": "33",
+		"category": "Namkeen",
+		"subcategory": "Diet Namkeen",
+		"sweet_name": "Roasted Soya Chips",
+		"image": "Roasted-Soya-Chips.jpg"
+	},
+	{
+		"id": "34",
+		"category": "Namkeen",
+		"subcategory": "Diet Namkeen",
+		"sweet_name": "Roasted Yellow Chips",
+		"image": "Roasted-Yellow-Chips.jpg"
+	},
+	{
+		"id": "35",
+		"category": "Namkeen",
+		"subcategory": "Diet Namkeen",
+		"sweet_name": "Roasted Black Pepper Chips",
+		"image": "Roasted-Black-Pepper-Chips.jpg"
+	},
+	{
+		"id": "36",
+		"category": "Namkeen",
+		"subcategory": "Diet Namkeen",
+		"sweet_name": "Roasted Moong Jor",
+		"image": "Roasted-Moong-Jor.jpg"
+	},
+	{
+		"id": "37",
+		"category": "Namkeen",
+		"subcategory": "Diet Namkeen",
+		"sweet_name": "Wheat Puff",
+		"image": "Wheat-Puff.jpg"
+	},
+	{
+		"id": "38",
+		"category": "Namkeen",
+		"subcategory": "Diet Namkeen",
+		"sweet_name": "Jowar Puffs",
+		"image": "Jowar-Puffs.jpg"
+	},
+	{
+		"id": "39",
+		"category": "Namkeen",
+		"subcategory": "Banana Chips",
+		"sweet_name": "Yellow Banana",
+		"image": "Yellow-Banana.jpg"
+	},
+	{
+		"id": "40",
+		"category": "Namkeen",
+		"subcategory": "Banana Chips",
+		"sweet_name": "Black Pepper Banana",
+		"image": "Black-Pepper-Banana.jpg"
+	},
+	{
+		"id": "41",
+		"category": "Namkeen",
+		"subcategory": "Banana Chips",
+		"sweet_name": "Masala Banana",
+		"image": "Masala-Banana.jpg"
+	},
+	{
+		"id": "42",
+		"category": "Namkeen",
+		"subcategory": "Banana Chips",
+		"sweet_name": "Tomato Banana",
+		"image": "Tomato-Banana.jpg"
+	},
+	{
+		"id": "43",
+		"category": "Namkeen",
+		"subcategory": "Banana Chips",
+		"sweet_name": "Cheese Banana",
+		"image": "Cheese-Banana.jpg"
+	},
+	{
+		"id": "44",
+		"category": "Namkeen",
+		"subcategory": "",
+		"sweet_name": "Peri Peri",
+		"image": "Peri-Peri.jpg"
+	},
+	{
+		"id": "45",
+		"category": "Namkeen",
+		"subcategory": "Potato Wafer",
+		"sweet_name": "Hot & Spicy",
+		"image": "Hot-&-Spicy.jpg"
+	},
+	{
+		"id": "46",
+		"category": "Namkeen",
+		"subcategory": "Potato Wafer",
+		"sweet_name": "Cheese",
+		"image": "Cheese.jpg"
+	},
+	{
+		"id": "47",
+		"category": "Namkeen",
+		"subcategory": "Potato Wafer",
+		"sweet_name": "Tomato",
+		"image": "Tomato.jpg"
+	},
+	{
+		"id": "48",
+		"category": "Namkeen",
+		"subcategory": "Potato Wafer",
+		"sweet_name": "Premium Salted",
+		"image": "Premium-Salted.jpg"
+	},
+	{
+		"id": "49",
+		"category": "Speciality",
+		"subcategory": "",
+		"sweet_name": "Kachori",
+		"image": "Kachori.jpg"
+	},
+	{
+		"id": "50",
+		"category": "Speciality",
+		"subcategory": "",
+		"sweet_name": "Bhakharwadi",
+		"image": "Bhakharwadi.jpg"
+	},
+	{
+		"id": "51",
+		"category": "Speciality",
+		"subcategory": "",
+		"sweet_name": "Makai Chivda",
+		"image": "Makai-Chivda.jpg"
+	},
+	{
+		"id": "52",
+		"category": "Speciality",
+		"subcategory": "",
+		"sweet_name": "Nylon Chivda",
+		"image": "Nylon-Chivda.jpg"
+	},
+	{
+		"id": "53",
+		"category": "Speciality",
+		"subcategory": "",
+		"sweet_name": "Nadiyadi Bhusa",
+		"image": "Nadiyadi-Bhusa.jpg"
+	},
+	{
+		"id": "54",
+		"category": "Speciality",
+		"subcategory": "",
+		"sweet_name": "Ratlami Sev",
+		"image": "Ratlami-Sev.jpg"
+	},
+	{
+		"id": "55",
+		"category": "Speciality",
+		"subcategory": "",
+		"sweet_name": "Jeera Mathri",
+		"image": "Jeera-Mathri.jpg"
+	},
+	{
+		"id": "56",
+		"category": "Speciality",
+		"subcategory": "",
+		"sweet_name": "Methi Mathri",
+		"image": "Methi-Mathri.jpg"
+	},
+	{
+		"id": "57",
+		"category": "Speciality",
+		"subcategory": "",
+		"sweet_name": "Tikha Sev",
+		"image": "Tikha-Sev.jpg"
+	},
+	{
+		"id": "58",
+		"category": "Speciality",
+		"subcategory": "",
+		"sweet_name": "Shakarpara",
+		"image": "Shakarpara.jpg"
+	},
+	{
+		"id": "59",
+		"category": "Speciality",
+		"subcategory": "",
+		"sweet_name": "Butter Chakli",
+		"image": "Butter-Chakli.jpg"
+	},
+	{
+		"id": "60",
+		"category": "Khakhra",
+		"subcategory": "",
+		"sweet_name": "Methi",
+		"image": "Methi.jpg"
+	},
+	{
+		"id": "61",
+		"category": "Khakhra",
+		"subcategory": "",
+		"sweet_name": "Jeeralu",
+		"image": "Jeeralu.jpg"
+	},
+	{
+		"id": "62",
+		"category": "Khakhra",
+		"subcategory": "",
+		"sweet_name": "Chorfali",
+		"image": "Chorfali.jpg"
+	},
+	{
+		"id": "63",
+		"category": "Khakhra",
+		"subcategory": "",
+		"sweet_name": "Panjabi Masala",
+		"image": "Panjabi-Masala.jpg"
+	},
+	{
+		"id": "64",
+		"category": "Khakhra",
+		"subcategory": "",
+		"sweet_name": "Pav Bhaji",
+		"image": "Pav-Bhaji.jpg"
+	},
+	{
+		"id": "65",
+		"category": "Khakhra",
+		"subcategory": "",
+		"sweet_name": "Special Peanut Chutney",
+		"image": "Special-Peanut-Chutney.jpg"
+	},
+	{
+		"id": "66",
+		"category": "Khakhra",
+		"subcategory": "",
+		"sweet_name": "Panipuri",
+		"image": "Panipuri.jpg"
+	},
+	{
+		"id": "67",
+		"category": "Khakhra",
+		"subcategory": "",
+		"sweet_name": "Rumali",
+		"image": "Rumali.jpg"
+	},
+	{
+		"id": "68",
+		"category": "Khakhra",
+		"subcategory": "",
+		"sweet_name": "Nachani",
+		"image": "Nachani.jpg"
+	},
+	{
+		"id": "69",
+		"category": "Khakhra",
+		"subcategory": "",
+		"sweet_name": "Dosa Khakhra",
+		"image": "Dosa-Khakhra.jpg"
+	},
+	{
+		"id": "70",
+		"category": "Khakhra",
+		"subcategory": "",
+		"sweet_name": "Chili Cheese",
+		"image": "Chili-Cheese.jpg"
+	},
+	{
+		"id": "71",
+		"category": "Khakhra",
+		"subcategory": "",
+		"sweet_name": "Shezwan",
+		"image": "Shezwan.jpg"
+	},
+	{
+		"id": "72",
+		"category": "Khakhra",
+		"subcategory": "",
+		"sweet_name": "Masala",
+		"image": "Masala.jpg"
+	},
+	{
+		"id": "73",
+		"category": "Khakhra",
+		"subcategory": "",
+		"sweet_name": "Butter sada",
+		"image": "Butter-sada.jpg"
+	},
+	{
+		"id": "74",
+		"category": "Bakery Products",
+		"subcategory": "Khari ",
+		"sweet_name": "Whole Wheat",
+		"image": "Whole-Wheat.jpg"
+	},
+	{
+		"id": "75",
+		"category": "Bakery Products",
+		"subcategory": "Khari ",
+		"sweet_name": "Nachani Khari",
+		"image": "Nachani-Khari.jpg"
+	},
+	{
+		"id": "76",
+		"category": "Bakery Products",
+		"subcategory": "Khari ",
+		"sweet_name": "Secial Amul Khari",
+		"image": "Secial-Amul-Khari.jpg"
+	},
+	{
+		"id": "77",
+		"category": "Bakery Products",
+		"subcategory": "Khari ",
+		"sweet_name": "Plain",
+		"image": "Plain.jpg"
+	},
+	{
+		"id": "78",
+		"category": "Bakery Products",
+		"subcategory": "Toast",
+		"sweet_name": "Suji",
+		"image": "Suji.jpg"
+	},
+	{
+		"id": "79",
+		"category": "Bakery Products",
+		"subcategory": "Toast",
+		"sweet_name": "Milk",
+		"image": "Milk.jpg"
+	},
+	{
+		"id": "80",
+		"category": "Bakery Products",
+		"subcategory": "Toast",
+		"sweet_name": "Wheat",
+		"image": "Wheat.jpg"
+	},
+	{
+		"id": "81",
+		"category": "Bakery Products",
+		"subcategory": "Toast",
+		"sweet_name": "Nachani ",
+		"image": "Nachani-.jpg"
+	},
+	{
+		"id": "82",
+		"category": "Bakery Products",
+		"subcategory": "Bar Cake",
+		"sweet_name": "Plum Cake",
+		"image": "Plum-Cake.jpg"
+	},
+	{
+		"id": "83",
+		"category": "Bakery Products",
+		"subcategory": "Bar Cake",
+		"sweet_name": "Dryfruit Cake",
+		"image": "Dryfruit-Cake.jpg"
+	},
+	{
+		"id": "84",
+		"category": "Bakery Products",
+		"subcategory": "Bar Cake",
+		"sweet_name": "Browny Cake",
+		"image": "Browny-Cake.jpg"
+	},
+	{
+		"id": "85",
+		"category": "Bakery Products",
+		"subcategory": "Bar Cake",
+		"sweet_name": "Date Wallnut Cake",
+		"image": "Date-Wallnut-Cake.jpg"
+	},
+	{
+		"id": "86",
+		"category": "Bakery Products",
+		"subcategory": "Bar Cake",
+		"sweet_name": "Strawberry Crush Cake",
+		"image": "Strawberry-Crush-Cake.jpg"
+	},
+	{
+		"id": "87",
+		"category": "Bakery Products",
+		"subcategory": "Bar Cake",
+		"sweet_name": "Pineapple Cake",
+		"image": "Pineapple-Cake.jpg"
+	},
+	{
+		"id": "88",
+		"category": "Bakery Products",
+		"subcategory": "Bar Cake",
+		"sweet_name": "Butterscotch Cake",
+		"image": "Butterscotch-Cake.jpg"
+	},
+	{
+		"id": "89",
+		"category": "Bakery Products",
+		"subcategory": "Cookies",
+		"sweet_name": "Fruit & Nut",
+		"image": "Fruit-&-Nut.jpg"
+	},
+	{
+		"id": "90",
+		"category": "Bakery Products",
+		"subcategory": "Cookies",
+		"sweet_name": "Chocolate Chips",
+		"image": "Chocolate-Chips.jpg"
+	},
+	{
+		"id": "91",
+		"category": "Bakery Products",
+		"subcategory": "Cookies",
+		"sweet_name": "Butter Cookies",
+		"image": "Butter-Cookies.jpg"
+	},
+	{
+		"id": "92",
+		"category": "Bakery Products",
+		"subcategory": "Cookies",
+		"sweet_name": "Nachani Cookies",
+		"image": "Nachani-Cookies.jpg"
+	},
+	{
+		"id": "93",
+		"category": "Bakery Products",
+		"subcategory": "Cookies",
+		"sweet_name": "Wheat Cookies",
+		"image": "Wheat-Cookies.jpg"
+	},
+	{
+		"id": "94",
+		"category": "Bakery Products",
+		"subcategory": "Cookies",
+		"sweet_name": "Special Butter Dryfruit Cookies",
+		"image": "Special-Butter-Dryfruit-Cookies.jpg"
+	},
+	{
+		"id": "95",
+		"category": "Dry fruits",
+		"subcategory": "Cookies",
+		"sweet_name": "Almond",
+		"image": "Almond.jpg"
+	},
+	{
+		"id": "96",
+		"category": "Dry fruits",
+		"subcategory": "Cookies",
+		"sweet_name": "Cashew",
+		"image": "Cashew.jpg"
+	},
+	{
+		"id": "97",
+		"category": "Dry fruits",
+		"subcategory": "Cookies",
+		"sweet_name": "Black Seedless Raisins",
+		"image": "Black-Seedless-Raisins.jpg"
+	},
+	{
+		"id": "98",
+		"category": "Dry fruits",
+		"subcategory": "Cookies",
+		"sweet_name": "Afghan Kishmish",
+		"image": "Afghan-Kishmish.jpg"
+	},
+	{
+		"id": "99",
+		"category": "Dry fruits",
+		"subcategory": "Cookies",
+		"sweet_name": "Apricot",
+		"image": "Apricot.jpg"
+	},
+	{
+		"id": "100",
+		"category": "Dry fruits",
+		"subcategory": "Cookies",
+		"sweet_name": "Wallnut",
+		"image": "Wallnut.jpg"
+	},
+	{
+		"id": "101",
+		"category": "Dry fruits",
+		"subcategory": "Cookies",
+		"sweet_name": "Fig",
+		"image": "Fig.jpg"
+	},
+	{
+		"id": "102",
+		"category": "Dry fruits",
+		"subcategory": "Cookies",
+		"sweet_name": "Special Mix Dryfruit",
+		"image": "Special-Mix-Dryfruit.jpg"
+	},
+	{
+		"id": "103",
+		"category": "Dry fruits",
+		"subcategory": "Cookies",
+		"sweet_name": "Pistachio",
+		"image": "Pistachio.jpg"
+	},
+	{
+		"id": "104",
+		"category": "Dry fruits",
+		"subcategory": "Cookies",
+		"sweet_name": "Salted Pistachio",
+		"image": "Salted-Pistachio.jpg"
+	},
+	{
+		"id": "105",
+		"category": "Dry fruits",
+		"subcategory": "Cookies",
+		"sweet_name": "Dried Date (Kharek)",
+		"image": "Dried-Date-(Kharek).jpg"
+	},
+	{
+		"id": "106",
+		"category": "Dry fruits",
+		"subcategory": "Cookies",
+		"sweet_name": "Muscat Seedless Dates",
+		"image": "Muscat-Seedless-Dates.jpg"
+	},
+	{
+		"id": "107",
+		"category": "Dry fruits",
+		"subcategory": "Cookies",
+		"sweet_name": "Salted Cashew",
+		"image": "Salted-Cashew.jpg"
+	},
+	{
+		"id": "108",
+		"category": "Dry fruits",
+		"subcategory": "Cookies",
+		"sweet_name": "Salted Almond",
+		"image": "Salted-Almond.jpg"
+	},
+	{
+		"id": "109",
+		"category": "Home Made Chocolate",
+		"subcategory": "Cookies",
+		"sweet_name": "Almond Rocks",
+		"image": "Almond-Rocks.jpg"
+	},
+	{
+		"id": "110",
+		"category": "Home Made Chocolate",
+		"subcategory": "Cookies",
+		"sweet_name": "Dryfruit Wati",
+		"image": "Dryfruit-Wati.jpg"
+	},
+	{
+		"id": "111",
+		"category": "Home Made Chocolate",
+		"subcategory": "Cookies",
+		"sweet_name": "Fruit Wati",
+		"image": "Fruit-Wati.jpg"
+	},
+	{
+		"id": "112",
+		"category": "Fresh Snacks",
+		"subcategory": "Cookies",
+		"sweet_name": "White Dhokla",
+		"image": "White-Dhokla.jpg"
+	},
+	{
+		"id": "113",
+		"category": "Fresh Snacks",
+		"subcategory": "Cookies",
+		"sweet_name": "Khaman Dhokla",
+		"image": "Khaman-Dhokla.jpg"
+	},
+	{
+		"id": "114",
+		"category": "Fresh Snacks",
+		"subcategory": "Cookies",
+		"sweet_name": "Patra",
+		"image": "Patra.jpg"
+	},
+	{
+		"id": "115",
+		"category": "Fresh Snacks",
+		"subcategory": "Cookies",
+		"sweet_name": "Vada",
+		"image": "Vada.jpg"
+	},
+	{
+		"id": "116",
+		"category": "Fresh Snacks",
+		"subcategory": "Cookies",
+		"sweet_name": "Samosa",
+		"image": "Samosa.jpg"
+	},
+	{
+		"id": "117",
+		"category": "Fresh Snacks",
+		"subcategory": "Cookies",
+		"sweet_name": "Idli",
+		"image": "Idli.jpg"
+	},
+	{
+		"id": "118",
+		"category": "Fresh Snacks",
+		"subcategory": "Cookies",
+		"sweet_name": "Jalebi",
+		"image": "Jalebi.jpg"
+	},
+	{
+		"id": "119",
+		"category": "Fresh Snacks",
+		"subcategory": "Cookies",
+		"sweet_name": "Fafda",
+		"image": "Fafda.jpg"
+	},
+	{
+		"id": "120",
+		"category": "Fresh Snacks",
+		"subcategory": "Cookies",
+		"sweet_name": "Sandwich Dhokla",
+		"image": "Sandwich-Dhokla.jpg"
+	},
+	{
+		"id": "121",
+		"category": "Gift Hampers",
+		"subcategory": "Cookies",
+		"sweet_name": "Dryfruit Box",
+		"image": "Dryfruit-Box.jpg"
+	},
+	{
+		"id": "122",
+		"category": "Gift Hampers",
+		"subcategory": "Cookies",
+		"sweet_name": "Chocolate Box",
+		"image": "Chocolate-Box.jpg"
+	},
+	{
+		"id": "123",
+		"category": "Gift Hampers",
+		"subcategory": "Cookies",
+		"sweet_name": "Mithai Box",
+		"image": "Mithai-Box.jpg"
+	},
+	{
+		"id": "124",
+		"category": "Home Made",
+		"subcategory": "Cookies",
+		"sweet_name": "Karanji",
+		"image": "Karanji.jpg"
+	},
+	{
+		"id": "125",
+		"category": "Home Made",
+		"subcategory": "Cookies",
+		"sweet_name": "Special Home Made Pickles",
+		"image": "Special-Home-Made-Pickles.jpg"
+	},
+	{
+		"id": "126",
+		"category": "Home Made",
+		"subcategory": "Cookies",
+		"sweet_name": "Bhajni Chakli",
+		"image": "Bhajni-Chakli.jpg"
+	},
+	{
+		"id": "127",
+		"category": "Home Made",
+		"subcategory": "Special Home Made Chikki",
+		"sweet_name": "Peanut Chikki",
+		"image": "Peanut-Chikki.jpg"
+	},
+	{
+		"id": "128",
+		"category": "Home Made",
+		"subcategory": "Special Home Made Chikki",
+		"sweet_name": "Rajgara Chikki",
+		"image": "Rajgara-Chikki.jpg"
+	},
+	{
+		"id": "129",
+		"category": "Home Made",
+		"subcategory": "Special Home Made Chikki",
+		"sweet_name": "Crush Peanut Chikki",
+		"image": "Crush-Peanut-Chikki.jpg"
+	},
+	{
+		"id": "130",
+		"category": "Home Made",
+		"subcategory": "Special Home Made Chikki",
+		"sweet_name": "Flexseed Chikki",
+		"image": "Flexseed-Chikki.jpg"
+	},
+	{
+		"id": "131",
+		"category": "Home Made",
+		"subcategory": "Special Home Made Chikki",
+		"sweet_name": "Tal Chikki",
+		"image": "Tal-Chikki.jpg"
+	}
+]
