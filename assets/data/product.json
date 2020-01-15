@@ -31,7 +31,7 @@
 		"id": "5",
 		"category": "Sweets ",
 		"subcategory": "Bengali Sweets ",
-		"sweet_name": "Kesar Rabdi",
+		"sweet_name": "Kesar Rasmalai",
 		"image": "Kesar-Rabdi.jpg"
 	},
 	{
@@ -437,7 +437,7 @@
 		"id": "63",
 		"category": "Khakhra",
 		"subcategory": "",
-		"sweet_name": "Panjabi Masala",
+		"sweet_name": "Punjabi Masala",
 		"image": "Panjabi-Masala.jpg"
 	},
 	{
@@ -900,7 +900,7 @@
 		"category": "Home Made",
 		"subcategory": "Special Home Made Chikki",
 		"sweet_name": "Crush Peanut Chikki",
-		"image": "Crush-Peanut-Chikki.jpg"
+		"image": "Crush-Peanut.jpg"
 	},
 	{
 		"id": "130",
@@ -915,5 +915,33 @@
 		"subcategory": "Special Home Made Chikki",
 		"sweet_name": "Tal Chikki",
 		"image": "Tal-Chikki.jpg"
+	},
+	{
+		"id": "132",
+		"category": "Sweets ",
+		"subcategory": "Shrikhand",
+		"sweet_name": "Rose Petal Shrikhand",
+		"image": "Rose-Petal-Shrikhand.jpg"
+	},
+	{
+		"id": "133",
+		"category": "Sweets ",
+		"subcategory": "Shrikhand",
+		"sweet_name": "Fresh Fruit Shrikhand",
+		"image": "Fresh-Fruit-Shrikhand.jpg"
+	},
+	{
+		"id": "134",
+		"category": "Sweets ",
+		"subcategory": "Bengali Sweets ",
+		"sweet_name": "Kesar Basundi",
+		"image": "Kesar-Basundi.jpg"
+	},
+	{
+		"id": "135",
+		"category": "Sweets ",
+		"subcategory": "Bengali Sweets ",
+		"sweet_name": "Malai Rabdi",
+		"image": "Malai-Rabdi.jpg"
 	}
 ]
